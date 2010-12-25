@@ -1,0 +1,4 @@
+libgrowl-udp is a tiny Java library that implements Growl
+notification system's UDP protocol.
+
+Growl: http://www.growl.info
